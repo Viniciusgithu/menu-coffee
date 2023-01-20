@@ -1,5 +1,5 @@
 # Projeto desenvolvido para aperfeiçoar as habilidades em ReactJS
-Como todo bom programador, ser humano que ama café, me desafiei a construir um Menu Coffee. Assim, implementei o menu com as framework React.JS. 
+Como todo bom programador, e lógico um simples ser humano que ama café, me desafiei a construir um Menu Coffee. Assim, implementei o menu com as framework React.JS. 
 
 ## 📋 Pré-requisitos
 * HTML5;
